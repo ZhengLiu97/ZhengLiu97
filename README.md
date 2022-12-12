@@ -5,7 +5,7 @@
 
 ---
 
-![github stats](https://github-readme-stats.vercel.app/api?username=ZhengLiu97&theme=radical&show_icons=true&hide=issues)  
+![github stats](https://github-readme-stats.vercel.app/api?username=ZhengLiu97&theme=radical&show_icons=true&hide=issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhengLiu97&hide=javascript,html&theme=radical)   
 
 --- 
